@@ -1,0 +1,41 @@
+Order ID,Order Date,Ship Date,Ship Mode,Segment,Region,Category,Sub-Category,Product ID,Sales
+CA-2017-118101,26/06/2017,26/06/2017,Same Day,Home Office,Central,Office Supplies,Paper,OFF-PA-10000357,368.91
+CA-2018-115322,11/05/2018,16/05/2018,Second Class,Consumer,East,Office Supplies,Art,OFF-AR-10004456,43.92
+CA-2018-107797,08/05/2018,11/05/2018,Second Class,Corporate,Central,Office Supplies,Paper,OFF-PA-10003848,41.472
+CA-2016-150714,26/10/2016,01/11/2016,Standard Class,Corporate,West,Office Supplies,Appliances,OFF-AP-10003287,203.88
+CA-2016-127453,19/12/2016,20/12/2016,First Class,Consumer,East,Office Supplies,Appliances,OFF-AP-10003860,88.832
+CA-2016-116092,15/02/2016,18/02/2016,Second Class,Consumer,West,Office Supplies,Binders,OFF-BI-10001628,41.72
+CA-2015-133830,05/12/2015,10/12/2015,Standard Class,Consumer,West,Office Supplies,Fasteners,OFF-FA-10002280,15.0
+US-2018-146416,20/10/2018,22/10/2018,Second Class,Corporate,West,Office Supplies,Binders,OFF-BI-10001787,20.928
+CA-2017-125850,22/01/2017,28/01/2017,Standard Class,Consumer,West,Office Supplies,Labels,OFF-LA-10004484,20.65
+CA-2016-127453,19/12/2016,20/12/2016,First Class,Consumer,East,Office Supplies,Appliances,OFF-AP-10000828,434.352
+CA-2017-112109,08/07/2017,12/07/2017,Standard Class,Consumer,West,Furniture,Chairs,FUR-CH-10004287,662.88
+CA-2018-103065,20/10/2018,20/10/2018,Same Day,Consumer,South,Office Supplies,Art,OFF-AR-10003251,4.448
+CA-2018-121125,30/05/2018,03/06/2018,Standard Class,Home Office,West,Technology,Accessories,TEC-AC-10002323,35.36
+CA-2016-164336,05/07/2016,10/07/2016,Standard Class,Consumer,East,Office Supplies,Storage,OFF-ST-10001558,38.976
+CA-2017-103128,11/11/2017,15/11/2017,Standard Class,Consumer,Central,Office Supplies,Art,OFF-AR-10003394,14.112
+CA-2017-109666,19/04/2017,26/04/2017,Standard Class,Consumer,East,Office Supplies,Art,OFF-AR-10004582,3.28
+CA-2015-167850,09/08/2015,16/08/2015,Standard Class,Corporate,South,Technology,Phones,TEC-PH-10002398,178.384
+US-2015-133130,27/09/2015,01/10/2015,Standard Class,Consumer,West,Furniture,Chairs,FUR-CH-10002602,603.92
+CA-2017-164091,17/09/2017,22/09/2017,Standard Class,Corporate,East,Furniture,Furnishings,FUR-FU-10004952,109.48
+CA-2016-112319,31/08/2016,05/09/2016,Standard Class,Consumer,West,Office Supplies,Paper,OFF-PA-10003441,58.32
+CA-2016-144274,23/11/2016,25/11/2016,Second Class,Consumer,East,Office Supplies,Art,OFF-AR-10001940,13.12
+US-2017-139486,21/05/2017,23/05/2017,First Class,Consumer,West,Technology,Accessories,TEC-AC-10003832,66.26
+CA-2017-147123,10/12/2017,12/12/2017,First Class,Home Office,West,Office Supplies,Paper,OFF-PA-10000575,80.28
+CA-2018-160416,13/11/2018,18/11/2018,Second Class,Home Office,East,Technology,Accessories,TEC-AC-10004114,163.96
+CA-2016-102016,12/09/2016,18/09/2016,Standard Class,Consumer,East,Office Supplies,Labels,OFF-LA-10002043,20.7
+CA-2017-136021,14/08/2017,18/08/2017,Standard Class,Consumer,West,Office Supplies,Paper,OFF-PA-10000551,15.54
+CA-2016-101707,27/08/2016,01/09/2016,Standard Class,Consumer,West,Office Supplies,Labels,OFF-LA-10000134,3.08
+CA-2018-118885,29/12/2018,02/01/2019,Standard Class,Consumer,West,Furniture,Chairs,FUR-CH-10002880,393.568
+CA-2017-158778,05/09/2017,09/09/2017,Standard Class,Consumer,East,Furniture,Chairs,FUR-CH-10000309,887.271
+CA-2017-112697,18/12/2017,20/12/2017,Second Class,Corporate,South,Office Supplies,Appliances,OFF-AP-10002684,194.528
+CA-2016-132941,25/05/2016,28/05/2016,First Class,Corporate,Central,Office Supplies,Supplies,OFF-SU-10002557,22.368
+US-2017-111290,22/07/2017,26/07/2017,Standard Class,Consumer,Central,Technology,Accessories,TEC-AC-10004975,109.95
+CA-2017-159891,31/01/2017,06/02/2017,Standard Class,Home Office,South,Office Supplies,Envelopes,OFF-EN-10004483,125.36
+CA-2016-149601,28/05/2016,03/06/2016,Standard Class,Consumer,East,Office Supplies,Storage,OFF-ST-10001558,16.24
+CA-2016-104346,11/12/2016,16/12/2016,Standard Class,Consumer,West,Office Supplies,Paper,OFF-PA-10001166,85.056
+CA-2017-143924,28/07/2017,03/08/2017,Standard Class,Home Office,Central,Office Supplies,Fasteners,OFF-FA-10000735,20.44
+CA-2015-149958,15/03/2015,19/03/2015,Standard Class,Consumer,South,Office Supplies,Binders,OFF-BI-10000773,7.218
+US-2016-136987,11/04/2016,14/04/2016,Second Class,Consumer,West,Technology,Copiers,TEC-CO-10001943,639.968
+CA-2017-131093,17/09/2017,20/09/2017,Second Class,Consumer,East,Office Supplies,Storage,OFF-ST-10002790,295.4
+CA-2017-153577,27/06/2017,01/07/2017,Standard Class,Corporate,Central,Furniture,Chairs,FUR-CH-10003981,539.658

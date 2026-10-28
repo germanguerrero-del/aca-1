@@ -1,0 +1,121 @@
+{
+  "metodo_seleccionado": "1. Regresión Lineal",
+  "nota_seleccion": "PR-AUC en prueba = 0.875 y ROC-AUC = 0.952, la mejor capacidad de ordenar entre los cinco métodos; con umbral optimizado F1 = 0.793.",
+  "umbral_venta_usd": 208.85399999999998,
+  "umbral_decision_optimizado": {
+    "1. Regresión Lineal": 159.07638825368218,
+    "2. Regresión Logística": 0.5320874665100135,
+    "3. Árbol de Decisión": 0.5273137191749163,
+    "4. K-Means": 0.2903225806451613,
+    "5. Aprendizaje por Refuerzo": 0.5543301009788976
+  },
+  "umbral_natural": {
+    "1. Regresión Lineal": 208.85399999999998,
+    "2. Regresión Logística": 0.5,
+    "3. Árbol de Decisión": 0.5,
+    "4. K-Means": 0.5,
+    "5. Aprendizaje por Refuerzo": 0.5
+  },
+  "variables_modelos": [
+    "Ship Mode",
+    "Segment",
+    "Region",
+    "Category",
+    "Sub-Category",
+    "Product ID",
+    "order_month",
+    "order_year",
+    "order_dayofweek",
+    "ship_days"
+  ],
+  "metricas_prueba_regla_natural": {
+    "1. Regresión Lineal": {
+      "accuracy": 0.888,
+      "precision": 0.824,
+      "recall": 0.73,
+      "f1": 0.774,
+      "roc_auc": 0.952,
+      "pr_auc": 0.875
+    },
+    "2. Regresión Logística": {
+      "accuracy": 0.881,
+      "precision": 0.743,
+      "recall": 0.836,
+      "f1": 0.787,
+      "roc_auc": 0.935,
+      "pr_auc": 0.831
+    },
+    "3. Árbol de Decisión": {
+      "accuracy": 0.872,
+      "precision": 0.705,
+      "recall": 0.881,
+      "f1": 0.783,
+      "roc_auc": 0.925,
+      "pr_auc": 0.817
+    },
+    "4. K-Means": {
+      "accuracy": 0.884,
+      "precision": 0.777,
+      "recall": 0.783,
+      "f1": 0.78,
+      "roc_auc": 0.935,
+      "pr_auc": 0.821
+    },
+    "5. Aprendizaje por Refuerzo": {
+      "accuracy": 0.884,
+      "precision": 0.759,
+      "recall": 0.816,
+      "f1": 0.786,
+      "roc_auc": 0.919,
+      "pr_auc": 0.805
+    }
+  },
+  "metricas_prueba_umbral_optimizado": {
+    "1. Regresión Lineal": {
+      "umbral": 159.076,
+      "precision": 0.769,
+      "recall": 0.818,
+      "f1": 0.793
+    },
+    "2. Regresión Logística": {
+      "umbral": 0.532,
+      "precision": 0.748,
+      "recall": 0.828,
+      "f1": 0.786
+    },
+    "3. Árbol de Decisión": {
+      "umbral": 0.527,
+      "precision": 0.716,
+      "recall": 0.871,
+      "f1": 0.786
+    },
+    "4. K-Means": {
+      "umbral": 0.29,
+      "precision": 0.73,
+      "recall": 0.854,
+      "f1": 0.787
+    },
+    "5. Aprendizaje por Refuerzo": {
+      "umbral": 0.554,
+      "precision": 0.762,
+      "recall": 0.789,
+      "f1": 0.775
+    }
+  },
+  "regresion_prueba": {
+    "Regresión Lineal (con log)": {
+      "R²": 0.187,
+      "MAE (USD)": 139.735,
+      "RMSE (USD)": 648.871,
+      "R² (en log)": 0.777
+    },
+    "Línea base (mediana)": {
+      "R²": -0.067,
+      "MAE (USD)": 219.998,
+      "RMSE (USD)": 743.196,
+      "R² (en log)": -0.007
+    }
+  },
+  "n_entrenamiento": 7847,
+  "n_prueba": 1952
+}
